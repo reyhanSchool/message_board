@@ -21,10 +21,11 @@ The Message Board Application is a Java Swing-based program that simulates a dig
 
 ## Usage
 
-1. Launch the `MathClient` application to open the user interface.
-2. Enter your name, type your message, and click the "Send" button to post messages.
-3. Click the "Refresh" button to update the message board with the latest messages.
-4. To personalize the background and font colors, click the "Change Background" button and select your preferred colors using the color picker.
+1. Navigate to the `server` folder and start the `MathServer` Java file to initiate the server.
+2. Go to the `client` folder and launch the `MathClient` Java file to open the user interface.
+3. Enter your name, type your message, and click the "Send" button to post messages.
+4. Click the "Refresh" button to update the message board with the latest messages.
+5. To personalize the background and font colors, click the "Change Background" button and select your preferred colors using the color picker.
 
 ## Customization
 
